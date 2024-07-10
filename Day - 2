@@ -1,0 +1,50 @@
+// operators and expression
+package com.company;
+
+public class cwh_12_ps2 {
+    public static void main(String[] args) {
+        float a = 7/4f * 9/2f;
+        System.out.println(a);
+    }
+}
+
+// associativity and presidence
+package com.company;
+
+public class cwh_12_ps2 {
+    public static void main(String[] args) {
+int x = 6;
+int y = 1;
+int k = x*y/2;
+system.out.println (k);
+ }
+}
+
+// Resulting of data types
+package com.company;
+
+public class cwh_12_ps2 {
+    public static void main(String[] args) {
+       byte x = 5;
+        int y = 6;
+        short z = 8;
+        float b = 6.54f + x;
+        System.out.println(x);
+        System.out.println(y);
+        System.out.println(z);
+        System.out.println(b);
+}
+}
+
+
+//increment and decrement
+package com.company;
+
+public class cwh_12_ps2 {
+    public static void main(String[] args) {
+ int y = 7;
+        System.out.println(++y * 8);
+        char ch = 'a';
+        System.out.println(++ch );
+    }
+}
