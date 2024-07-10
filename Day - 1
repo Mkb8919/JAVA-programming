@@ -1,0 +1,57 @@
+// My first JAVA program 
+
+package com.company; // Groups classes
+public class Main{	// Entrypoint into the application
+	public static void main(String[]args){
+		System.out.println(“Hello World”);
+	}
+}
+
+// variables 
+package com .company ;
+public class main {
+public static void main(String[]args) {
+system.out.println(" The sum of these numbers is ");
+int num1 = 6;
+int num2 = 9;
+int num3 = 8;
+int sum = num1 + num2 + num3 ;
+system.out.println(sum);
+}
+}
+
+// literals
+package com.company;
+
+public class CWH_04_literals {
+    public static void main(String[] args) {
+        byte age = 34;
+        int age2 = 56;
+        short age3 = 87;
+        long ageDino = 56666666L;
+        char ch = 'A';
+        float f1 = 5.6f;
+        double d1 = 4.66d;
+
+        boolean a = true;
+        System.out.println(age);
+        String str = "MOHIT";
+        System.out.println(str);
+    }
+
+// taking input from users
+package com.company;
+import java.util.Scanner;
+
+public class CWH_O1_PS {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the distance in kilometer");
+        float km = sc.nextFloat();
+        // Kilometers to miles conversion
+        // 1km = 0.6213711922 miles
+        float miles = (float)(0.6213711922 * km);
+        System.out.println("Distance in miles will be : " +miles);
+
+    }
+}
