@@ -1,0 +1,23 @@
+// String in java 
+
+package com.company
+import java.util.Scanner;
+public class cwh_13_String {
+public static void main(String[]args){
+Scanner sc = new Scanner(System.in);
+String st = sc.next line ();
+System.out.println(st);
+  }
+}
+
+// String methods
+package com.company;
+
+public class cwh_14_strings_methods {
+    public static void main(String[] args) {
+        String name = "Harry";
+String lstring = name.toLowerCase();
+        System.out.println(lstring);
+
+    }
+}
