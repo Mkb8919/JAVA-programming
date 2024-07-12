@@ -1,0 +1,45 @@
+# LOOPS IN JAVA  
+// while loops
+package com.company;
+
+public class cwh_21_ch5_loops {
+    public static void main(String[] args) {
+ System.out.println("Using loops");
+        int i=100;
+        while(i<=200){
+            System.out.println(i);
+            i++;
+        }
+        System.out.println("Finish running while loop");
+   }
+}
+
+// do while
+package com.company;
+
+public class cwh_21_ch5_loops {
+    public static void main(String[] args) {
+int c = 10;
+      do {
+          System.out.println(c);
+          c++;
+      }while(c<=100);
+
+      }
+
+    }
+
+// for loop
+package com.company;
+
+public class cwh_21_ch5_loops {
+    public static void main(String[] args) {
+System.out.println("N even numbers");
+        int n = 5;
+        for(int i=0; i<n; i++){
+            System.out.println(2*i);
+        }
+   }
+}
+
+
