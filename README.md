@@ -6,3 +6,6 @@ ________________________________________________________________________________
 •	Day -2 : Operators and expressions, Associativity and precedence, Resulting of data types, Increment and decrement operators.
 •	Day-3: String in Java, String methods.
 •	Day-4: If- else conditions, Relations and Logical operations, Else if conditions, Switch case .
+•	Day – 5 : loops in java , for loop , while loop, do while loop  .
+•	Day-6 : Break and continue statement in java by using loops :- for loop, while loop, do while 
+  loop .
