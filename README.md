@@ -9,3 +9,4 @@ ________________________________________________________________________________
 •	Day – 5 : loops in java , for loop , while loop, do while loop  .
 •	Day-6 : Break and continue statement in java by using loops :- for loop, while loop, do while 
   loop .
+•	Day – 7 : Array in java, Array by using (for each loop) in java, multidimensional array .
